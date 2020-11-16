@@ -1,5 +1,5 @@
 # Histogram_Equalization
-Histogram Equalization to make uniform distribution
+Get .raw file as input, then the histogram of input file is converted to uniform distribution by histogram equalization
 <br><br>
 
 
